@@ -8,5 +8,5 @@ function printBadges(array) {
 }
 
 function tailsNeverFails() {
-  
+  while()
 }
