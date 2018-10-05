@@ -12,5 +12,7 @@ function maybeTrue() {
 }
 
 function tailsNeverFails() {
-  while(maybeTrue())
+  while(maybeTrue()) {
+    
+  }
 }
