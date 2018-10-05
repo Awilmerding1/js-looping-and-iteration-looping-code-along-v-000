@@ -7,13 +7,10 @@ function printBadges(array) {
   return array
 }
 
-function maybeTrue() {
-    return Math.random() >= 0.5;
-}
 
 function tailsNeverFails() {
   let a = []
-  while(maybeTrue()) {
+  while(Math.random() >= 0.5;) {
     return "You got  tails in a row!"
   }
 }
