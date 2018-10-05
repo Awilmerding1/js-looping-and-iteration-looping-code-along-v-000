@@ -13,6 +13,6 @@ function maybeTrue() {
 
 function tailsNeverFails() {
   while(maybeTrue()) {
-    console
+    return "You got  tails in a row!"
   }
 }
