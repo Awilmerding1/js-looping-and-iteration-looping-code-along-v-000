@@ -7,6 +7,10 @@ function printBadges(array) {
   return array
 }
 
+function maybeTrue() {
+    return Math.random() >= 0.5;
+}
+
 function tailsNeverFails() {
   while()
 }
